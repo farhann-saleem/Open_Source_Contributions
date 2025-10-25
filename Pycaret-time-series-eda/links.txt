@@ -1,0 +1,9 @@
+Repository: https://github.com/pycaret/pycaret
+Fork: https://github.com/farhann-saleem/pycaret
+Pull Request: https://github.com/pycaret/pycaret/pull/4171
+Linked Issue: https://github.com/pycaret/pycaret/issues/3696
+Portfolio Repo: https://github.com/farhann-saleem/open-source-contributions/tree/main/pycaret-time-series-eda
+Screenshots:
+https://github.com/user-attachments/assets/e1cbab39-1ad9-41b0-8814-0775ee57ac74
+https://github.com/user-attachments/assets/2b5433ae-5657-4333-a850-85a4c4ec4daf
+https://github.com/user-attachments/assets/ccf96b4d-ef31-42fc-b18c-bad33d15f02f
