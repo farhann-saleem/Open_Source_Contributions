@@ -4,10 +4,10 @@
 
 * **Repository:** [PyCaret](https://github.com/pycaret/pycaret)
 * **Fork:** [farhann-saleem/pycaret](https://github.com/farhann-saleem/pycaret)
-* **Pull Request:** [#3696 – Time Series EDA](https://github.com/pycaret/pycaret/pull/4171
-* **Linked Issue:** [#3696](https://github.com/pycaret/pycaret/issues/3696)
+* **Pull Request:** [#4171 – Time Series EDA](https://github.com/pycaret/pycaret/pull/4171)
+* **Linked Issue:** [#4174](https://github.com/pycaret/pycaret/issues/4174)
 * **Date:** October 2025
-* **Status:** PR Open (Repo Inactive)
+* **Status:** In Review
 
 ---
 
