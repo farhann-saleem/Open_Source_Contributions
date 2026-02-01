@@ -10,10 +10,10 @@ Here is a summary of my key contributions across different repositories.
 
 | Project | Repository | PR # | Tech Stack | Status |
 |---------|------------|------|------------|--------|
-| **[Kubeflow Manifests Fix](./Kubeflow_Manifests_Fix)** | [kubeflow/manifests](https://github.com/kubeflow/manifests) | [#3330](https://github.com/kubeflow/manifests/pull/3330) | Kubernetes, YAML | ![Merged](https://img.shields.io/badge/Status-Merged-blueviolet) |
+| **[Kubeflow Manifests Fix](./Kubeflow_Manifests_Fix)** | [kubeflow/manifests](https://github.com/kubeflow/manifests) | [#3330](https://github.com/kubeflow/manifests/pull/3330) | Kubernetes, YAML | ![Open](https://img.shields.io/badge/Status-Open-green) |
 | **[ChatVector Linux Docs](./ChatVector_Linux_Docs)** | [chatvector-ai/chatvector-ai](https://github.com/chatvector-ai/chatvector-ai) | [#37](https://github.com/chatvector-ai/chatvector-ai/pull/37) | Documentation, Linux | ![Merged](https://img.shields.io/badge/Status-Merged-blueviolet) |
-| **[Hacktoberfest Contribution](./Hacktoberfest_Contribution)** | [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) | [#12250](https://github.com/AliceWonderland/hacktoberfest/pull/12250) | Markdown, Python | ![Merged](https://img.shields.io/badge/Status-Merged-blueviolet) |
-| **[PyCaret Time-Series EDA](Pycaret-time-series-eda/PyCaret_EDA_Contribution_Report.md)** | [pycaret/pycaret](https://github.com/pycaret/pycaret) | [#4171](https://github.com/pycaret/pycaret/pull/4171) | PyCaret, Jupyter | ![Linked](https://img.shields.io/badge/Status-In%20Review-orange) |
+| **[Hacktoberfest Contribution](./Hacktoberfest_Contribution)** | [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) | [#12250](https://github.com/AliceWonderland/hacktoberfest/pull/12250) | Markdown, Python | ![Open](https://img.shields.io/badge/Status-Open-green) |
+| **[PyCaret Time-Series EDA](Pycaret-time-series-eda/PyCaret_EDA_Contribution_Report.md)** | [pycaret/pycaret](https://github.com/pycaret/pycaret) | [#4171](https://github.com/pycaret/pycaret/pull/4171) | PyCaret, Jupyter | ![Open](https://img.shields.io/badge/Status-Open-green) |
 
 ---
 
