@@ -1,4 +1,4 @@
-# 🚀 Open Source Contributions
+#  Open Source Contributions
 
 Welcome to my portfolio of open-source contributions! This repository documents my journey in contributing to various Machine Learning, Data Science, and DevOps projects. I am passionate about improving code quality, fixing bugs, and adding new features to the open-source community.
 
