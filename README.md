@@ -11,6 +11,7 @@ Here is a summary of my key contributions across different repositories.
 | Project | Repository | PR # | Tech Stack | Status |
 |---------|------------|------|------------|--------|
 | **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19382](https://github.com/vitessio/vitess/pull/19382) | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19387](https://github.com/vitessio/vitess/pull/19387) | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[ChatVector Linux Docs](./ChatVector_Linux_Docs)** | [chatvector-ai/chatvector-ai](https://github.com/chatvector-ai/chatvector-ai) | [#37](https://github.com/chatvector-ai/chatvector-ai/pull/37) | Documentation, Linux | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Krkn Contribution](./Krkn_Contribution)** | [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) | [#1145](https://github.com/krkn-chaos/krkn/pull/1145) | Python | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 
@@ -18,7 +19,6 @@ Here is a summary of my key contributions across different repositories.
 
 | Project | Repository | PR # | Tech Stack | Status |
 |---------|------------|------|------------|--------|
-| **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19387](https://github.com/vitessio/vitess/pull/19387) | Go | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
 | **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17274](https://github.com/meshery/meshery/pull/17274) | Go, React | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
 | **[Kubeflow Docs Agent](./Kubeflow_Docs_Agent)** | [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent) | [#37](https://github.com/kubeflow/docs-agent/pull/37) | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[PyCaret Time-Series EDA](Pycaret-time-series-eda/PyCaret_EDA_Contribution_Report.md)** | [pycaret/pycaret](https://github.com/pycaret/pycaret) | [#4171](https://github.com/pycaret/pycaret/pull/4171) | PyCaret, Jupyter | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
