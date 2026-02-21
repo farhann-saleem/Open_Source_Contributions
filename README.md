@@ -1,8 +1,14 @@
-#  Open Source Contributions
+# 🚀 Open Source Contributions
 
 Welcome to my portfolio of open-source contributions! This repository documents my journey in contributing to various Machine Learning, Data Science, and DevOps projects. I am passionate about improving code quality, fixing bugs, and adding new features to the open-source community.
 
-##  Highlights
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **[CheckMate AI](./Checkmate_AI)** | AI Code Security Scanner with Human-in-the-Loop Feedback for detecting vulnerabilities in generated code. | Python, FastAPI, CLI | [GitHub](https://github.com/farhann-saleem/checkmate-ai) / [PyPI](https://pypi.org/project/checkmate-ai/) |
+
+## 🌟 Highlights
 
 Here is a summary of my key contributions across different repositories.
 
@@ -25,6 +31,7 @@ Here is a summary of my key contributions across different repositories.
 | **[Hacktoberfest Contribution](./Hacktoberfest_Contribution)** | [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) | [#12250](https://github.com/AliceWonderland/hacktoberfest/pull/12250) | Markdown, Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Sktime Contribution](./Sktime_Contribution)** | [sktime/sktime](https://github.com/sktime/sktime) | [#9437](https://github.com/sktime/sktime/pull/9437) | Markdown, Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Drasi Platform Contribution](./Drasi_Platform_Contribution)** | [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform) | [#398](https://github.com/drasi-project/drasi-platform/pull/398) | Rust, Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Drasi Platform Contribution](./Drasi_Platform_Contribution)** | [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform) | [#397](https://github.com/drasi-project/drasi-platform/pull/397) | Documentation | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Krknctl Contribution](./Krknctl_Contribution)** | [krkn-chaos/krknctl](https://github.com/krkn-chaos/krknctl) | [#107](https://github.com/krkn-chaos/krknctl/pull/107) | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Ianvs Contribution](./Ianvs_Contribution)** | [kubeedge/ianvs](https://github.com/kubeedge/ianvs) | [#314](https://github.com/kubeedge/ianvs/pull/314) | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 
@@ -43,7 +50,7 @@ Here is a summary of my key contributions across different repositories.
 ##  Skills & Technologies
 
 *   **Languages:** Python, SQL, Bash
-*   **Tools:** Git, Docker, Kubernetes
+*   **Tools:** Git, Docker, Kubernetes, FastAPI, CLI Development
 *   **Domains:** Machine Learning, Data Science, MLOps, Open Source
 
 ---
