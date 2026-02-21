@@ -1,6 +1,6 @@
 # 🚀 Open Source Contributions
 
-Welcome to my portfolio of open-source contributions! This repository documents my journey in contributing to various Machine Learning, Data Science, and DevOps projects. I am passionate about improving code quality, fixing bugs, and adding new features to the open-source community.
+Welcome to my portfolio of open-source contributions! I am the **ML/AI Co-Lead at GDGoC LGU** and a passionate contributor to various Machine Learning, Data Science, and DevOps projects. This repository documents my journey in improving code quality, fixing bugs, and adding new features to the open-source community.
 
 ## 🚀 Featured Projects
 
@@ -16,6 +16,7 @@ Here is a summary of my key contributions across different repositories.
 
 | Project | Repository | PR # | Tech Stack | Status |
 |---------|------------|------|------------|--------|
+| **[GDGoC LGU](./GDGOC_LGU_Contribution)** | [GDGoC-LGU/.github](https://github.com/GDGoC-LGU/.github) | [#1](https://github.com/GDGoC-LGU/.github/pull/1) | Documentation | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19382](https://github.com/vitessio/vitess/pull/19382) | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19387](https://github.com/vitessio/vitess/pull/19387) | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[ChatVector Linux Docs](./ChatVector_Linux_Docs)** | [chatvector-ai/chatvector-ai](https://github.com/chatvector-ai/chatvector-ai) | [#37](https://github.com/chatvector-ai/chatvector-ai/pull/37) | Documentation, Linux | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
