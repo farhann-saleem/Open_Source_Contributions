@@ -6,8 +6,13 @@ Contribution to [Meshery](https://github.com/meshery/meshery).
 *   **PR:** [#17274](https://github.com/meshery/meshery/pull/17274)
 *   **Status:** Approved
 
+*   **PR:** [#17606](https://github.com/meshery/meshery/pull/17606)
+*   **Status:** Open
+*   **Description:** Replaced `fmt.Println` with structured logging in backend handlers for better observability.
+
 *   **PR:** [#17603](https://github.com/meshery/meshery/pull/17603)
 *   **Status:** Merged
+*   **Description:** Documentation updates.
 
 ## Community & Mentorship
 Active participant in the Meshery community and development calls.
