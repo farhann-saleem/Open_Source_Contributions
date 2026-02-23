@@ -47,6 +47,8 @@ Here is a summary of my key contributions across different repositories.
 | **[Kubeflow Manifests Fix](./Kubeflow_Manifests_Fix)** | [kubeflow/manifests](https://github.com/kubeflow/manifests) | [#3330](https://github.com/kubeflow/manifests/pull/3330) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
 | **[Medical Appointment No-Shows](./Medical_Appointment_No_Shows)** | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos) | [#1684](https://github.com/recodehive/machine-learning-repos/pull/1684) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
 | **[DeepCrop Detection](./DeepCrop_Detection)** | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos) | [#1683](https://github.com/recodehive/machine-learning-repos/pull/1683) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
+| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17303](https://github.com/meshery/meshery/pull/17303) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
+
 
 ---
 

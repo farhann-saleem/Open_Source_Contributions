@@ -14,6 +14,10 @@ Contribution to [Meshery](https://github.com/meshery/meshery).
 *   **Status:** Merged
 *   **Description:** Documentation updates.
 
+*   **PR:** [#17303](https://github.com/meshery/meshery/pull/17303)
+*   **Status:** Closed
+*   **Description:** [Security] Fix SSRF vulnerability in design and component import handlers.
+
 ## Community & Mentorship
 Active participant in the Meshery community and development calls.
 
