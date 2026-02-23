@@ -6,6 +6,9 @@ Contribution to [Meshery](https://github.com/meshery/meshery).
 *   **PR:** [#17274](https://github.com/meshery/meshery/pull/17274)
 *   **Status:** Approved
 
+*   **PR:** [#17603](https://github.com/meshery/meshery/pull/17603)
+*   **Status:** Merged
+
 ## Community & Mentorship
 Active participant in the Meshery community and development calls.
 

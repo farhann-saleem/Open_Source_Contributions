@@ -16,7 +16,8 @@ Here is a summary of my key contributions across different repositories.
 
 | Project | Repository | PR # | Tech Stack | Status |
 |---------|------------|------|------------|--------|
-| **[GDGoC LGU](./GDGOC_LGU_Contribution)** | [GDGoC-LGU/.github](https://github.com/GDGoC-LGU/.github) | [#1](https://github.com/GDGoC-LGU/.github/pull/1) | Documentation | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[GDGoC LGU](./GDGOC_LGU_Contribution)** | [GDGoC-LGU](https://github.com/GDGoC-LGU) | [Maintenance](./GDGOC_LGU_Contribution) | Leadership, Docs | ![Maintainer](https://img.shields.io/badge/Role-Lead_&_Maintainer-orange?style=flat&logo=github&logoColor=white) |
+| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17603](https://github.com/meshery/meshery/pull/17603) | Documentation | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19382](https://github.com/vitessio/vitess/pull/19382) | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19387](https://github.com/vitessio/vitess/pull/19387) | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[ChatVector Linux Docs](./ChatVector_Linux_Docs)** | [chatvector-ai/chatvector-ai](https://github.com/chatvector-ai/chatvector-ai) | [#37](https://github.com/chatvector-ai/chatvector-ai/pull/37) | Documentation, Linux | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
