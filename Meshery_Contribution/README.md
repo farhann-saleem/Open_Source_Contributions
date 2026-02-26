@@ -6,6 +6,10 @@ Contribution to [Meshery](https://github.com/meshery/meshery).
 *   **PR:** [#17274](https://github.com/meshery/meshery/pull/17274)
 *   **Status:** Approved
 
+*   **PR:** [#17626](https://github.com/meshery/meshery/pull/17626)
+*   **Status:** Open
+*   **Description:** [Models] Added edge/non-binding/reference relationship between ECR Repository and ECS TaskDefinition for aws-ecs-controller.
+
 *   **PR:** [#17606](https://github.com/meshery/meshery/pull/17606)
 *   **Status:** Open
 *   **Description:** Replaced `fmt.Println` with structured logging in backend handlers for better observability.
