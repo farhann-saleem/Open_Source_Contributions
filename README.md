@@ -14,45 +14,38 @@ Here is a summary of my key contributions across different repositories.
 
 ###  Merged Contributions
 
-| Project | Repository | PR # | Tech Stack | Status |
-|---------|------------|------|------------|--------|
-| **[GDGoC LGU](./GDGOC_LGU_Contribution)** | [GDGoC-LGU](https://github.com/GDGoC-LGU) | [Maintenance](./GDGOC_LGU_Contribution) | Leadership, Docs | ![Maintainer](https://img.shields.io/badge/Role-Lead_&_Maintainer-orange?style=flat&logo=github&logoColor=white) |
-| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17603](https://github.com/meshery/meshery/pull/17603) | Documentation | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
-| **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19382](https://github.com/vitessio/vitess/pull/19382) | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
-| **[Vitess Contribution](./Vitess_Contribution)** | [vitessio/vitess](https://github.com/vitessio/vitess) | [#19387](https://github.com/vitessio/vitess/pull/19387) | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
-| **[ChatVector Linux Docs](./ChatVector_Linux_Docs)** | [chatvector-ai/chatvector-ai](https://github.com/chatvector-ai/chatvector-ai) | [#37](https://github.com/chatvector-ai/chatvector-ai/pull/37) | Documentation, Linux | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
-| **[Krkn Contribution](./Krkn_Contribution)** | [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) | [#1145](https://github.com/krkn-chaos/krkn/pull/1145) | Python | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| Project | Repository | Contributions | Tech Stack | # PRs | Status |
+|---------|------------|---------------|------------|-------|--------|
+| **[GDGoC LGU](./GDGOC_LGU_Contribution)** | [GDGoC-LGU](https://github.com/GDGoC-LGU) | [Maintenance](./GDGOC_LGU_Contribution) | Leadership, Docs | 1 | ![Maintainer](https://img.shields.io/badge/Role-Lead_&_Maintainer-orange?style=flat&logo=github&logoColor=white) |
+| **[Hermeto](./Hermeto_Contribution)** | [hermeto](https://github.com/hermetoproject/hermeto) | [#1338](https://github.com/hermetoproject/hermeto/pull/1338), [#1330](https://github.com/hermetoproject/hermeto/pull/1330) | Documentation | 2 | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[Vitess](./Vitess_Contribution)** | [vitess](https://github.com/vitessio/vitess) | [#19382](https://github.com/vitessio/vitess/pull/19382), [#19387](https://github.com/vitessio/vitess/pull/19387) | Go | 2 | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[Meshery](./Meshery_Contribution)** | [meshery](https://github.com/meshery/meshery) | [#17603](https://github.com/meshery/meshery/pull/17603) | Documentation | 1 | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[ChatVector](./ChatVector_Linux_Docs)** | [chatvector-ai](https://github.com/chatvector-ai/chatvector-ai) | [#37](https://github.com/chatvector-ai/chatvector-ai/pull/37) | Docs, Linux | 1 | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[Krkn](./Krkn_Contribution)** | [krkn](https://github.com/krkn-chaos/krkn) | [#1145](https://github.com/krkn-chaos/krkn/pull/1145) | Python | 1 | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 
 ### Open / Approved Contributions
 
-| Project | Repository | PR # | Tech Stack | Status |
-|---------|------------|------|------------|--------|
-| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17708](https://github.com/meshery/meshery/pull/17708) | Go | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
-| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17274](https://github.com/meshery/meshery/pull/17274) | Go, React | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
-| **[Hermeto Contribution](./Hermeto_Contribution)** | [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto) | [#1338](https://github.com/hermetoproject/hermeto/pull/1338) | Documentation | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
-| **[Hermeto Contribution](./Hermeto_Contribution)** | [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto) | [#1330](https://github.com/hermetoproject/hermeto/pull/1330) | Documentation | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
-| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17626](https://github.com/meshery/meshery/pull/17626) | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17606](https://github.com/meshery/meshery/pull/17606) | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Kubeflow Docs Agent](./Kubeflow_Docs_Agent)** | [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent) | [#37](https://github.com/kubeflow/docs-agent/pull/37) | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[PyCaret Time-Series EDA](Pycaret-time-series-eda/PyCaret_EDA_Contribution_Report.md)** | [pycaret/pycaret](https://github.com/pycaret/pycaret) | [#4171](https://github.com/pycaret/pycaret/pull/4171) | PyCaret, Jupyter | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Hacktoberfest Contribution](./Hacktoberfest_Contribution)** | [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) | [#12250](https://github.com/AliceWonderland/hacktoberfest/pull/12250) | Markdown, Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Sktime Contribution](./Sktime_Contribution)** | [sktime/sktime](https://github.com/sktime/sktime) | [#9437](https://github.com/sktime/sktime/pull/9437) | Markdown, Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Drasi Platform Contribution](./Drasi_Platform_Contribution)** | [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform) | [#398](https://github.com/drasi-project/drasi-platform/pull/398) | Rust, Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Drasi Platform Contribution](./Drasi_Platform_Contribution)** | [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform) | [#397](https://github.com/drasi-project/drasi-platform/pull/397) | Documentation | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Krknctl Contribution](./Krknctl_Contribution)** | [krkn-chaos/krknctl](https://github.com/krkn-chaos/krknctl) | [#107](https://github.com/krkn-chaos/krknctl/pull/107) | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Ianvs Contribution](./Ianvs_Contribution)** | [kubeedge/ianvs](https://github.com/kubeedge/ianvs) | [#314](https://github.com/kubeedge/ianvs/pull/314) | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| Project | Repository | Contributions | Tech Stack | # PRs | Status |
+|---------|------------|---------------|------------|-------|--------|
+| **[Meshery](./Meshery_Contribution)** | [meshery](https://github.com/meshery/meshery) | [#17708](https://github.com/meshery/meshery/pull/17708), [#17274](https://github.com/meshery/meshery/pull/17274) | Go, React | 2 | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
+| **[Meshery](./Meshery_Contribution)** | [meshery](https://github.com/meshery/meshery) | [#17626](https://github.com/meshery/meshery/pull/17626), [#17606](https://github.com/meshery/meshery/pull/17606) | Go | 2 | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Drasi Platform](./Drasi_Platform_Contribution)** | [drasi-platform](https://github.com/drasi-project/drasi-platform) | [#398](https://github.com/drasi-project/drasi-platform/pull/398), [#397](https://github.com/drasi-project/drasi-platform/pull/397) | Rust, Go | 2 | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Kubeflow Docs](./Kubeflow_Docs_Agent)** | [docs-agent](https://github.com/kubeflow/docs-agent) | [#37](https://github.com/kubeflow/docs-agent/pull/37) | Python | 1 | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[PyCaret](./Pycaret-time-series-eda/PyCaret_EDA_Contribution_Report.md)** | [pycaret](https://github.com/pycaret/pycaret) | [#4171](https://github.com/pycaret/pycaret/pull/4171) | PyCaret | 1 | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Sktime](./Sktime_Contribution)** | [sktime](https://github.com/sktime/sktime) | [#9437](https://github.com/sktime/sktime/pull/9437) | Python | 1 | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Krknctl](./Krknctl_Contribution)** | [krknctl](https://github.com/krkn-chaos/krknctl) | [#107](https://github.com/krkn-chaos/krknctl/pull/107) | Go | 1 | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Ianvs](./Ianvs_Contribution)** | [ianvs](https://github.com/kubeedge/ianvs) | [#314](https://github.com/kubeedge/ianvs/pull/314) | Python | 1 | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Hacktoberfest](./Hacktoberfest_Contribution)** | [hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) | [#12250](https://github.com/AliceWonderland/hacktoberfest/pull/12250) | Python | 1 | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 
 ---
 
 ###  Closed / Archived Contributions
 
-| Project | Repository | PR # | Status |
-|---------|------------|------|--------|
-| **[Kubeflow Manifests Fix](./Kubeflow_Manifests_Fix)** | [kubeflow/manifests](https://github.com/kubeflow/manifests) | [#3330](https://github.com/kubeflow/manifests/pull/3330) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
-| **[Medical Appointment No-Shows](./Medical_Appointment_No_Shows)** | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos) | [#1684](https://github.com/recodehive/machine-learning-repos/pull/1684) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
-| **[DeepCrop Detection](./DeepCrop_Detection)** | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos) | [#1683](https://github.com/recodehive/machine-learning-repos/pull/1683) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
-| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17706](https://github.com/meshery/meshery/pull/17706) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
-| **[Meshery Contribution](./Meshery_Contribution)** | [meshery/meshery](https://github.com/meshery/meshery) | [#17303](https://github.com/meshery/meshery/pull/17303) | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
+| Project | Repository | Contributions | # PRs | Status |
+|---------|------------|---------------|-------|--------|
+| **[Meshery](./Meshery_Contribution)** | [meshery](https://github.com/meshery/meshery) | [#17706](https://github.com/meshery/meshery/pull/17706), [#17303](https://github.com/meshery/meshery/pull/17303) | 2 | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
+| **[Machine Learning Repos](./Medical_Appointment_No_Shows)** | [recodehive](https://github.com/recodehive/machine-learning-repos) | [#1684](https://github.com/recodehive/machine-learning-repos/pull/1684), [#1683](https://github.com/recodehive/machine-learning-repos/pull/1683) | 2 | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
+| **[Kubeflow Manifests](./Kubeflow_Manifests_Fix)** | [manifests](https://github.com/kubeflow/manifests) | [#3330](https://github.com/kubeflow/manifests/pull/3330) | 1 | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
 
 ---
 
