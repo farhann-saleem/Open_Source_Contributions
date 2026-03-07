@@ -39,6 +39,15 @@ Here is a summary of my key contributions across different repositories.
 
 ---
 
+### 🛠️ Triage & Code Reviews
+
+| Project | Repository | Contributions | Impact | # Actions | Status |
+|---------|------------|---------------|--------|-----------|--------|
+| **[Meshery](./Meshery_Contribution)** | [meshery](https://github.com/meshery/meshery) | [#17741](https://github.com/meshery/meshery/issues/17741), [#17696](https://github.com/meshery/meshery/pull/17696), [#17790](https://github.com/meshery/meshery/pull/17790), [#17792](https://github.com/meshery/meshery/pull/17792) | **Deep Audit & Mentorship:** Debunked reports in `data-fetch.ts`, mentored contributors on KEDA & Cert-mgr standards, and enforced quality on unit tests. | 4 | ![Triage](https://img.shields.io/badge/Action-Triage-blue?style=flat&logo=github&logoColor=white) ![Review](https://img.shields.io/badge/Action-Review-blue?style=flat&logo=github&logoColor=white) |
+| **[Sktime](./Sktime_Contribution)** | [sktime](https://github.com/sktime/sktime) | [#9445](https://github.com/sktime/sktime/pull/9445) | **Code Review:** Verified documentation fixes, typos, and broken hyperlinks. | 1 | ![Review](https://img.shields.io/badge/Action-Review-blue?style=flat&logo=github&logoColor=white) |
+
+---
+
 ###  Closed / Archived Contributions
 
 | Project | Repository | Contributions | Tech Stack | # PRs | Status |
@@ -47,13 +56,6 @@ Here is a summary of my key contributions across different repositories.
 | **[Machine Learning Repos](./Medical_Appointment_No_Shows)** | [recodehive](https://github.com/recodehive/machine-learning-repos) | [#1684](https://github.com/recodehive/machine-learning-repos/pull/1684), [#1683](https://github.com/recodehive/machine-learning-repos/pull/1683) | Machine Learning | 2 | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
 | **[Krkn-AI](./Krkn_AI_Contribution)** | [krkn-ai](https://github.com/krkn-chaos/krkn-ai) | [#154](https://github.com/krkn-chaos/krkn-ai/pull/154) | Data, AI | 1 | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github-actions&logoColor=white) |
 | **[Kubeflow Manifests](./Kubeflow_Manifests_Fix)** | [manifests](https://github.com/kubeflow/manifests) | [#3330](https://github.com/kubeflow/manifests/pull/3330) | Kubernetes | 1 | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
-
-### 🛠️ Triage & Code Reviews
-
-| Project | Repository | Contributions | Impact | Status |
-|---------|------------|---------------|--------|--------|
-| **[Meshery](./Meshery_Contribution)** | [meshery](https://github.com/meshery/meshery) | [#17741](https://github.com/meshery/meshery/issues/17741) | **Technical Audit:** Debunked error handling & `AbortController` claims in `data-fetch.ts`. | ![Triage](https://img.shields.io/badge/Action-Triage-blue?style=flat&logo=github&logoColor=white) |
-| **[Meshery](./Meshery_Contribution)** | [meshery](https://github.com/meshery/meshery) | [#17696](https://github.com/meshery/meshery/pull/17696) | **Code Review:** Provided feedback on unit tests for terminal formatter & logger. | ![Review](https://img.shields.io/badge/Action-Review-blue?style=flat&logo=github&logoColor=white) |
 
 ---
 

@@ -47,4 +47,10 @@ Active participant in the Meshery community and development calls.
 *   **Action:** Performed a deep-dive technical audit of the `data-fetch.ts` utility. Analyzed the reported "swallowed errors" and debunked claims regarding `res.text()` fallbacks and `AbortController` usage by providing a line-by-line justification of the existing implementation's design choices (e.g., intentional load test trade-offs).
 
 *   **Code Review:** [#17696](https://github.com/meshery/meshery/pull/17696)
-*   **Action:** Provided technical feedback on unit test implementation for the terminal formatter and meshkit logger, focusing on consistent output validation and reliable logger initialization.
+*   **Action:** Provided feedback on unit tests for the terminal formatter and meshkit logger, focusing on consistent output validation and reliable logger initialization.
+
+*   **Code Review:** [#17790](https://github.com/meshery/meshery/pull/17790) (KEDA Relationships)
+*   **Action:** Identified 7 critical issues in a first-time contributor's PR, including naming convention violations, placeholder UUIDs, and missing visual verification (Kanvas screenshots). Provided constructive guidance on Meshery's relationship modeling standards.
+
+*   **Code Review:** [#17792](https://github.com/meshery/meshery/pull/17792) (Cert-manager Relationships)
+*   **Action:** Blocked a non-compliant PR containing duplicate files and deceptive screenshots (showing annotations instead of relationships). Enforced PR title standards and contribution guidelines.
