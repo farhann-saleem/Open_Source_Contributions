@@ -18,3 +18,7 @@ Contribution to [Hermeto](https://github.com/hermetoproject/hermeto).
 *   **PR:** [#1346](https://github.com/hermetoproject/hermeto/pull/1346)
 *   **Status:** Open
 *   **Description:** Implemented a technical fix for HTTP 429 (Too Many Requests) retry logic. Introduced a `RetryAfterJitterRetry` class to correctly respect the `Retry-After` header in the async path and added comprehensive unit tests using parametrization.
+
+## Issues & Bug Discovery
+*   **Issue:** [#1372](https://github.com/hermetoproject/hermeto/issues/1372)
+*   **Description:** Identified a critical flaw in how Hermeto detected Go toolchains on systems where Go is installed via `snap`. Discovered that `Path.resolve()` was stripping the symlink names needed for version identification. Resolved via PR [#1373](https://github.com/hermetoproject/hermeto/pull/1373).
