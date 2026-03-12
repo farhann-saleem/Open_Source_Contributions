@@ -15,15 +15,29 @@ Contribution to [Hermeto](https://github.com/hermetoproject/hermeto).
 *   **Status:** Merged
 *   **Description:** Fixed incorrect CLI option name `--output-dir` to `--output` in `cargo.md` documentation.
 
+*   **PR:** [#1385](https://github.com/hermetoproject/hermeto/pull/1385)
+*   **Status:** Open
+*   **Description:** Aligned `npm` backend's JSON error handling with the `yarn` backend. Wrapped `json.load()` calls to raise `InvalidLockfileFormat` instead of raw `JSONDecodeError`.
+
+*   **PR:** [#1383](https://github.com/hermetoproject/hermeto/pull/1383)
+*   **Status:** Merged
+*   **Description:** Fixed `KeyError: 'version'` crash when processing `npm` workspace projects where the root `package-lock.json` lacks a version field.
+
 *   **PR:** [#1346](https://github.com/hermetoproject/hermeto/pull/1346)
 *   **Status:** Open
 *   **Description:** Implemented a technical fix for HTTP 429 (Too Many Requests) retry logic. Introduced a `RetryAfterJitterRetry` class to correctly respect the `Retry-After` header in the async path and added comprehensive unit tests using parametrization.
 
 *   **PR:** [#1377](https://github.com/hermetoproject/hermeto/pull/1377)
-*   **Status:** Approved ✅
+*   **Status:** Merged
 *   **Description:** Improved error handling in the `cargo` backend by wrapping generic subprocess errors in `PackageManagerError`. This prevents leaking raw Python tracebacks to the user when `cargo vendor` fails for reasons other than lockfile mismatches.
 
 ## Issues & Bug Discovery
+*   **Issue:** [#1384](https://github.com/hermetoproject/hermeto/issues/1384)
+*   **Description:** Identified an error handling inconsistency where the `npm` backend would leak raw `JSONDecodeError` tracebacks on malformed lockfiles. Resolved via PR [#1385](https://github.com/hermetoproject/hermeto/pull/1385).
+
+*   **Issue:** [#1382](https://github.com/hermetoproject/hermeto/issues/1382)
+*   **Description:** Discovered a crash in the `npm` backend when handling workspace-based monorepos where the root lockfile doesn't contain a version field. Resolved via PR [#1383](https://github.com/hermetoproject/hermeto/pull/1383).
+
 *   **Issue:** [#1376](https://github.com/hermetoproject/hermeto/issues/1376)
 *   **Description:** Identified an error handling inconsistency in the `cargo` backend where raw `CalledProcessError` exceptions were leaking Python tracebacks. Aligned the behavior with other backends (gomod, yarn, bun) by implementing proper error wrapping. Resolved via PR [#1377](https://github.com/hermetoproject/hermeto/pull/1377).
 
