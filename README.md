@@ -7,6 +7,8 @@ Welcome to my portfolio of open-source contributions! I am the **ML/AI Co-Lead a
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **[CheckMate AI](./Community_Projects/Checkmate_AI)** | AI Code Security Scanner with Human-in-the-Loop Feedback for detecting vulnerabilities in generated code. | Python, FastAPI, CLI | [GitHub](https://github.com/farhann-saleem/checkmate-ai) / [PyPI](https://pypi.org/project/checkmate-ai/) |
+| **[Community Projects](./Community_Projects)** | Diverse contributions to local and regional open-source initiatives, including documentation and community tools. | Various | [Explore](./Community_Projects) |
+| **[RecodeHive](./RecodeHive)** | Deep Learning models for agricultural detection and healthcare predictive analytics. | Python, ML, CNN | [Details](./RecodeHive) |
 
 ## Highlights
 
@@ -41,11 +43,8 @@ Here is a summary of my key contributions across different repositories.
 | **[Drasi Platform](./Drasi_Platform)** | [drasi-platform](https://github.com/drasi-project/drasi-platform) | [#398](https://github.com/drasi-project/drasi-platform/pull/398) | Fix readiness reporting | Rust, Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | | | [#397](https://github.com/drasi-project/drasi-platform/pull/397) | Documentation & Typo fixes | Rust, Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Kubeflow](./Kubeflow)** | [docs-agent](https://github.com/kubeflow/docs-agent) | [#37](https://github.com/kubeflow/docs-agent/pull/37) | Documentation agent updates | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[PyCaret](./Community_Projects/Pycaret-time-series-eda/PyCaret_EDA_Report.md)** | [pycaret](https://github.com/pycaret/pycaret) | [#4171](https://github.com/pycaret/pycaret/pull/4171) | EDA reporting enhancements | PyCaret | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Sktime](./Sktime)** | [sktime](https://github.com/sktime/sktime) | [#9437](https://github.com/sktime/sktime/pull/9437) | Docs & broken reference fixes | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Krkn](./Krkn)** | [krknctl](https://github.com/krkn-chaos/krknctl) | [#107](https://github.com/krkn-chaos/krknctl/pull/107) | Control plane updates | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Ianvs](./Ianvs)** | [ianvs](https://github.com/kubeedge/ianvs) | [#314](https://github.com/kubeedge/ianvs/pull/314) | ML edge evaluation fixes | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Hacktoberfest](./Community_Projects/Hacktoberfest)** | [hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) | [#12250](https://github.com/AliceWonderland/hacktoberfest/pull/12250) | Community contrib | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 
 ---
 
@@ -70,7 +69,6 @@ Here is a summary of my key contributions across different repositories.
 | Project | Repository | ID | Tech Stack | Status |
 |:--- |:--- |:--- |:--- |:--- |
 | **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17706](https://github.com/meshery/meshery/pull/17706), [#17328](https://github.com/meshery/meshery/pull/17328), [#17303](https://github.com/meshery/meshery/pull/17303) | Go, Security, Docs | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
-| **[RecodeHive](./RecodeHive)** | [recodehive](https://github.com/recodehive/machine-learning-repos) | [#1684](https://github.com/recodehive/machine-learning-repos/pull/1684), [#1683](https://github.com/recodehive/machine-learning-repos/pull/1683) | Machine Learning | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
 | **[Krkn](./Krkn)** | [krkn-ai](https://github.com/krkn-chaos/krkn-ai) | [#154](https://github.com/krkn-chaos/krkn-ai/pull/154) | Data, AI | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github-actions&logoColor=white) |
 | **[Kubeflow](./Kubeflow)** | [manifests](https://github.com/kubeflow/manifests) | [#3330](https://github.com/kubeflow/manifests/pull/3330) | Kubernetes | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
 
