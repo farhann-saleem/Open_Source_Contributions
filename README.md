@@ -6,9 +6,10 @@ Welcome to my portfolio of open-source contributions! I am the **ML/AI Co-Lead a
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **[CheckMate AI](./Community_Projects/Checkmate_AI)** | AI Code Security Scanner with Human-in-the-Loop Feedback for detecting vulnerabilities in generated code. | Python, FastAPI, CLI | [GitHub](https://github.com/farhann-saleem/checkmate-ai) / [PyPI](https://pypi.org/project/checkmate-ai/) |
-| **[Community Projects](./Community_Projects)** | Diverse contributions to local and regional open-source initiatives, including documentation and community tools. | Various | [Explore](./Community_Projects) |
-| **[RecodeHive](./RecodeHive)** | Deep Learning models for agricultural detection and healthcare predictive analytics. | Python, ML, CNN | [Details](./RecodeHive) |
+| **[CheckMate AI](https://github.com/farhann-saleem/checkmate-ai)** | AI Code Security Scanner with Human-in-the-Loop Feedback for detecting vulnerabilities in generated code. | Python, FastAPI, CLI | [GitHub](https://github.com/farhann-saleem/checkmate-ai) / [PyPI](https://pypi.org/project/checkmate-ai/) |
+| **[JMCP](https://github.com/farhann-saleem/jmcp)** | CLI tool for debugging Jaeger traces, searching, blaming, diffing, and gating deployments directly from the terminal. | Go, CLI | [GitHub](https://github.com/farhann-saleem/jmcp) |
+| **[Medigify](./Medigify)** | **CTO & Lead Developer.** Built a complete Medical MCQ Test Startup from scratch to production. | Full-Stack | [Live Site](https://medigify.com/) / [GitHub](https://github.com/medigify/medigify-code-01) |
+| **[Runway Copilot](./Runway_Copilot)** | **SOFTEC 2026 Hackathon.** Autonomous AI Inbox Manager for Student Opportunities powered by DeepSeek V3 & Qwen 2.5-72B. | FastAPI, Next.js, LLMs | [GitHub](https://github.com/farhann-saleem/runway-copilot) |
 
 ## Highlights
 
@@ -19,11 +20,14 @@ Here is a summary of my key contributions across different repositories.
 | Project | Repository | ID | Contribution | Tech Stack | Status |
 |:--- |:--- |:--- |:--- |:--- |:--- |
 | **[GDGoC LGU](./GDGOC_LGU)** | [GDGoC-LGU](https://github.com/GDGoC-LGU) | - | [Maintenance & Leadership](./GDGOC_LGU) | Leadership, Docs | ![Maintainer](https://img.shields.io/badge/Role-Lead_&_Maintainer-orange?style=flat&logo=github&logoColor=white) |
-| **[Hermeto](./Hermeto)** | [hermeto](https://github.com/hermetoproject/hermeto) | [#1383](https://github.com/hermetoproject/hermeto/pull/1383) | NPM workspace version fix | Python | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[Hermeto](./Hermeto)** | [hermeto](https://github.com/hermetoproject/hermeto) | [#1385](https://github.com/hermetoproject/hermeto/pull/1385) | NPM backend JSON error alignment | Python | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
+| | | [#1383](https://github.com/hermetoproject/hermeto/pull/1383) | NPM workspace version fix | Python | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#1377](https://github.com/hermetoproject/hermeto/pull/1377) | Improved error handling in `cargo` backend | Python, Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#1373](https://github.com/hermetoproject/hermeto/pull/1373) | Fixed `gomod` toolchain detection | Python, Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#1338](https://github.com/hermetoproject/hermeto/pull/1338) | Fixed garbled text & stale links | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#1330](https://github.com/hermetoproject/hermeto/pull/1330) | Fixed incorrect CLI option name | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[Jaeger](./Jaeger)** | [jaeger](https://github.com/jaegertracing/jaeger) | [#8466](https://github.com/jaegertracing/jaeger/pull/8466) | Normalize span_kind input in get_span_names | Go | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
+| | | [#8472](https://github.com/jaegertracing/jaeger/pull/8472) | Align search_traces ADR with schema | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17708](https://github.com/meshery/meshery/pull/17708) | [Models] Defined CloudWatch & ECS relationships | Go, React, Docs | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
 | | | [#17274](https://github.com/meshery/meshery/pull/17274) | Approved design/implementation | Go, React | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
 | | | [#17603](https://github.com/meshery/meshery/pull/17603) | Documentation updates | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
@@ -31,13 +35,15 @@ Here is a summary of my key contributions across different repositories.
 | | | [#19382](https://github.com/vitessio/vitess/pull/19382) | Fix deprecated Maven badges | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[ChatVector](./Community_Projects/ChatVector_Linux_Docs)** | [chatvector-ai](https://github.com/chatvector-ai/chatvector-ai) | [#37](https://github.com/chatvector-ai/chatvector-ai/pull/37) | Linux documentation | Docs, Linux | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Krkn](./Krkn)** | [krkn](https://github.com/krkn-chaos/krkn) | [#1145](https://github.com/krkn-chaos/krkn/pull/1145) | Chaos engineering fixes | Python | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[Medigify](./Medigify)** | [medigify-code-01](https://github.com/medigify/medigify-code-01) | [#1](https://github.com/medigify/medigify-code-01/pull/1), [#2](https://github.com/medigify/medigify-code-01/pull/2), [#3](https://github.com/medigify/medigify-code-01/pull/3) | Architecture, UI Revamps, & Production Deployment | Full-Stack | ![Merged](https://img.shields.io/badge/Status-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 
 ### Open Contributions
 
 | Project | Repository | ID | Contribution | Tech Stack | Status |
 |:--- |:--- |:--- |:--- |:--- |:--- |
-| **[Hermeto](./Hermeto)** | [hermeto](https://github.com/hermetoproject/hermeto) | [#1385](https://github.com/hermetoproject/hermeto/pull/1385) | NPM backend JSON error alignment | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| | | [#1346](https://github.com/hermetoproject/hermeto/pull/1346) | HTTP 429 Jitter Retry logic | Python, Tests | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Hermeto](./Hermeto)** | [hermeto](https://github.com/hermetoproject/hermeto) | [#1346](https://github.com/hermetoproject/hermeto/pull/1346) | HTTP 429 Jitter Retry logic | Python, Tests | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Jaeger](./Jaeger)** | [jaeger](https://github.com/jaegertracing/jaeger) | [#8491](https://github.com/jaegertracing/jaeger/pull/8491) | Add trace_count field to search_traces output | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| | | [#8489](https://github.com/jaegertracing/jaeger/pull/8489) | Add truncation metadata to get_trace_topology | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17626](https://github.com/meshery/meshery/pull/17626) | [Models] ECR & ECS Relationships | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | | | [#17606](https://github.com/meshery/meshery/pull/17606) | Structured logging in handlers | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Drasi Platform](./Drasi_Platform)** | [drasi-platform](https://github.com/drasi-project/drasi-platform) | [#398](https://github.com/drasi-project/drasi-platform/pull/398) | Fix readiness reporting | Rust, Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
@@ -79,6 +85,15 @@ Here is a summary of my key contributions across different repositories.
 *   **MLOps:** Kubernetes Orchestration, Manifest Optimization, Model Deployment.
 *   **System Development:** CLI Tools, Structured Logging, Backend Handlers (Rust, Go).
 *   **Open Source Leadership:** Maintenance and community engagement.
+
+---
+
+### 📍 Local & Regional Projects
+
+| Project | Description | Tech Stack | Links |
+|:--- |:--- |:--- |:--- |
+| **[Community Projects](./Community_Projects)** | Diverse contributions to local and regional open-source initiatives, including documentation and community tools. | Various | [Explore](./Community_Projects) |
+| **[RecodeHive](./RecodeHive)** | Deep Learning models for agricultural detection and healthcare predictive analytics. | Python, ML, CNN | [Details](./RecodeHive) |
 
 ---
 
