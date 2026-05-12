@@ -9,8 +9,8 @@ Contribution to [Jaeger](https://github.com/jaegertracing/jaeger).
 *   **Description:** docs(mcp): Align search_traces ADR with search_depth schema.
 
 *   **PR:** [#8466](https://github.com/jaegertracing/jaeger/pull/8466)
-*   **Status:** Approved
-*   **Description:** fix(mcp): Normalize span_kind input to lowercase in get_span_names handler.
+*   **Status:** Merged
+*   **Description:** fix(mcp): Normalize span_kind input to lowercase in get_span_names handler. (Resolves [#8465](https://github.com/jaegertracing/jaeger/issues/8465))
 
 *   **PR:** [#8491](https://github.com/jaegertracing/jaeger/pull/8491)
 *   **Status:** Open
