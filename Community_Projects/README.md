@@ -9,6 +9,7 @@ This directory contains contributions to local, regional, and community-driven o
 | **CheckMate AI** | AI Code Security Scanner with Human-in-the-Loop Feedback for detecting vulnerabilities in generated code. | [Details](./Checkmate_AI) |
 | **ChatVector** | Linux documentation and community support for the ChatVector AI project. | [Details](./ChatVector_Linux_Docs) |
 | **PyCaret EDA** | Enhanced Exploratory Data Analysis (EDA) reporting for PyCaret's time-series module. | [Report](./Pycaret-time-series-eda/PyCaret_EDA_Contribution_Report.md) |
+| **RecodeHive** | Deep Learning models for agricultural detection and healthcare predictive analytics. | [Details](./RecodeHive) |
 | **Hacktoberfest** | Contributions made during the global Hacktoberfest event to various community repositories. | [Details](./Hacktoberfest) |
 
 ---

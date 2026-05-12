@@ -11,6 +11,17 @@ Welcome to my portfolio of open-source contributions! I am the **ML/AI Co-Lead a
 | **[Medigify](./Medigify)** | **CTO & Lead Developer.** Built a complete Medical MCQ Test Startup from scratch to production. | Full-Stack | [Live Site](https://medigify.com/) / [GitHub](https://github.com/medigify/medigify-code-01) |
 | **[Runway Copilot](./Runway_Copilot)** | **SOFTEC 2026 Hackathon.** Autonomous AI Inbox Manager for Student Opportunities powered by DeepSeek V3 & Qwen 2.5-72B. | FastAPI, Next.js, LLMs | [GitHub](https://github.com/farhann-saleem/runway-copilot) |
 
+## 📊 Contribution Stats
+
+| Category | Merged PRs | Open PRs | Issues Found |
+| :--- | :--- | :--- | :--- |
+| **CNCF Projects** | **7** | **7** | **2** |
+| **Red Hat Projects** | **7** | **2** | **4** |
+| **Community & Startup** | **5** | **1** | **0** |
+| **Total Contributions** | **19** | **10** | **6** |
+
+<br/>
+
 ## Highlights
 
 Here is a summary of my key contributions across different repositories.
@@ -89,8 +100,7 @@ Here is a summary of my key contributions across different repositories.
 
 | Project | Description | Tech Stack | Links |
 |:--- |:--- |:--- |:--- |
-| **[Community Projects](./Community_Projects)** | Diverse contributions to local and regional open-source initiatives, including documentation and community tools. | Various | [Explore](./Community_Projects) |
-| **[RecodeHive](./RecodeHive)** | Deep Learning models for agricultural detection and healthcare predictive analytics. | Python, ML, CNN | [Details](./RecodeHive) |
+| **[Community Projects](./Community_Projects)** | Contributions to local and regional open-source initiatives, including **RecodeHive** (Deep Learning), ChatVector (Docs), and community tools. | Various | [Explore](./Community_Projects) |
 
 ---
 
