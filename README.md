@@ -20,7 +20,7 @@ Here is a summary of my key contributions across different repositories.
 | Project | Repository | ID | Contribution | Tech Stack | Status |
 |:--- |:--- |:--- |:--- |:--- |:--- |
 | **[GDGoC LGU](./GDGOC_LGU)** | [GDGoC-LGU](https://github.com/GDGoC-LGU) | - | [Maintenance & Leadership](./GDGOC_LGU) | Leadership, Docs | ![Maintainer](https://img.shields.io/badge/Role-Lead_&_Maintainer-orange?style=flat&logo=github&logoColor=white) |
-| **[Hermeto](./Hermeto)** | [hermeto](https://github.com/hermetoproject/hermeto) | [#1385](https://github.com/hermetoproject/hermeto/pull/1385) | NPM backend JSON error alignment | Python | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
+| **[Hermeto](./Hermeto)** | [hermeto](https://github.com/hermetoproject/hermeto) | [#1385](https://github.com/hermetoproject/hermeto/pull/1385) | NPM backend JSON error alignment | Python | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#1383](https://github.com/hermetoproject/hermeto/pull/1383) | NPM workspace version fix | Python | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#1377](https://github.com/hermetoproject/hermeto/pull/1377) | Improved error handling in `cargo` backend | Python, Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#1373](https://github.com/hermetoproject/hermeto/pull/1373) | Fixed `gomod` toolchain detection | Python, Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
@@ -54,7 +54,7 @@ Here is a summary of my key contributions across different repositories.
 
 ---
 
-### 🛠️ Issues & Code Reviews
+### 🔍 Bug Discovery & Issues
 
 | Project | ID | Type | Key Contribution & Impact | Status |
 |:--- |:--- |:--- |:--- |:--- |
@@ -62,24 +62,20 @@ Here is a summary of my key contributions across different repositories.
 | | [#1382](https://github.com/hermetoproject/hermeto/issues/1382) | Bug Discovery | Found crash on `npm` workspace lockfiles missing versions. Prevented system failure. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | | [#1376](https://github.com/hermetoproject/hermeto/issues/1376) | Bug Discovery | Identified raw traceback leaks in `cargo` backend. Enhanced security and UX. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | | [#1372](https://github.com/hermetoproject/hermeto/issues/1372) | Bug Discovery | Detected flaws in `snap` based Go toolchain detection. Fixed cross-platform logic. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
+| **[Jaeger](./Jaeger)** | [#8465](https://github.com/jaegertracing/jaeger/issues/8465) | Bug Discovery | Identified case-sensitivity issues in `get_span_names` handler. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | **[Meshery](./Meshery)** | [#17741](https://github.com/meshery/meshery/issues/17741) | Deep Audit | Audited `data-fetch.ts` to debunk false reports and justified core design choices. | ![Triage](https://img.shields.io/badge/Action-Triage-blue?style=flat&logo=github&logoColor=white) |
-| | [#17696](https://github.com/meshery/meshery/pull/17696) | Code Review | Validated terminal formatter and meshkit logger unit tests for high reliability. | ![Review](https://img.shields.io/badge/Action-Review-blue?style=flat&logo=github&logoColor=white) |
+
+---
+
+### 🛠️ Code Reviews & Mentorship
+
+| Project | ID | Type | Key Contribution & Impact | Status |
+|:--- |:--- |:--- |:--- |:--- |
+| **[Meshery](./Meshery)** | [#17696](https://github.com/meshery/meshery/pull/17696) | Code Review | Validated terminal formatter and meshkit logger unit tests for high reliability. | ![Review](https://img.shields.io/badge/Action-Review-blue?style=flat&logo=github&logoColor=white) |
 | | [#17790](https://github.com/meshery/meshery/pull/17790) | Mentorship | Guided new contributor on KEDA relationship modeling and project standards. | ![Review](https://img.shields.io/badge/Action-Review-blue?style=flat&logo=github&logoColor=white) |
 | | [#17792](https://github.com/meshery/meshery/pull/17792) | Architecture | Enforced Meshery standards by auditing non-compliant PRs for design alignment. | ![Review](https://img.shields.io/badge/Action-Review-blue?style=flat&logo=github&logoColor=white) |
-| **[Jaeger](./Jaeger)** | [#8465](https://github.com/jaegertracing/jaeger/issues/8465) | Bug Discovery | Identified case-sensitivity issues in `get_span_names` handler. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | **[Sktime](./Sktime)** | [#9445](https://github.com/sktime/sktime/pull/9445) | Code Review | Verified critical documentation and hyperlink fixes for better project navigation. | ![Review](https://img.shields.io/badge/Action-Review-blue?style=flat&logo=github&logoColor=white) |
 
----
-
-###  Closed / Archived Contributions
-
-| Project | Repository | ID | Tech Stack | Status |
-|:--- |:--- |:--- |:--- |:--- |
-| **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17706](https://github.com/meshery/meshery/pull/17706), [#17328](https://github.com/meshery/meshery/pull/17328), [#17303](https://github.com/meshery/meshery/pull/17303) | Go, Security, Docs | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
-| **[Krkn](./Krkn)** | [krkn-ai](https://github.com/krkn-chaos/krkn-ai) | [#154](https://github.com/krkn-chaos/krkn-ai/pull/154) | Data, AI | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github-actions&logoColor=white) |
-| **[Kubeflow](./Kubeflow)** | [manifests](https://github.com/kubeflow/manifests) | [#3330](https://github.com/kubeflow/manifests/pull/3330) | Kubernetes | ![Closed](https://img.shields.io/badge/PR-Closed-gray?style=flat&logo=github&logoColor=white) |
-
----
 
 ### 🧠 Specializations
 *   **Machine Learning & Data Science:** Deep Learning, EDA, Time-Series Analysis (Sktime, PyCaret).

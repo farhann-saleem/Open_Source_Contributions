@@ -16,7 +16,7 @@ Contribution to [Hermeto](https://github.com/hermetoproject/hermeto).
 *   **Description:** Fixed incorrect CLI option name `--output-dir` to `--output` in `cargo.md` documentation.
 
 *   **PR:** [#1385](https://github.com/hermetoproject/hermeto/pull/1385)
-*   **Status:** Approved
+*   **Status:** Merged
 *   **Description:** Aligned `npm` backend's JSON error handling with the `yarn` backend. Wrapped `json.load()` calls to raise `InvalidLockfileFormat` instead of raw `JSONDecodeError`.
 
 *   **PR:** [#1383](https://github.com/hermetoproject/hermeto/pull/1383)
