@@ -1,6 +1,17 @@
-# 🚀 Open Source Contributions
-
-Welcome to my portfolio of open-source contributions! I am the **ML/AI Co-Lead at GDGoC LGU** and a passionate contributor to various Machine Learning, Data Science, and DevOps projects. This repository documents my journey in improving code quality, fixing bugs, and adding new features to the open-source community.
+<div align="center">
+  <h1 align="center">🚀 Open Source Portfolio</h1>
+  <p align="center">
+    <strong>Architecting Solutions. Engineering Systems. Building the Future of Open Source.</strong>
+  </p>
+  <p align="center">
+    <a href="https://vaeryx.com/"><b>Founder @ Vaeryx</b></a> &nbsp;&bull;&nbsp;
+    <a href="https://medigify.com/"><b>CTO @ Medigify</b></a> &nbsp;&bull;&nbsp;
+    <b>ML/AI Co-Lead @ GDGoC LGU</b>
+  </p>
+  <p align="center">
+    <i>A curated index of my engineering footprint across CNCF, Red Hat, Y Combinator startups, and the broader open-source ecosystem, specializing in AI/ML, Data Science, DevOps, and high-performance backend systems.</i>
+  </p>
+</div>
 
 ## Featured Projects
 
@@ -8,6 +19,7 @@ Welcome to my portfolio of open-source contributions! I am the **ML/AI Co-Lead a
 |---------|-------------|------------|-------|
 | **[CheckMate AI](https://github.com/farhann-saleem/checkmate-ai)** | AI Code Security Scanner with Human-in-the-Loop Feedback for detecting vulnerabilities in generated code. | Python, FastAPI, CLI | [GitHub](https://github.com/farhann-saleem/checkmate-ai) / [PyPI](https://pypi.org/project/checkmate-ai/) |
 | **[JMCP](https://github.com/farhann-saleem/jmcp)** | CLI tool for debugging Jaeger traces, searching, blaming, diffing, and gating deployments directly from the terminal. | Go, CLI | [GitHub](https://github.com/farhann-saleem/jmcp) |
+| **[AgentPack](./AgentPack)** | Workflow installer for vibe coders, providing repo-local AI skills, persistent memory, and structured task continuity. | Node.js, CLI, AI Workflows | [GitHub](https://github.com/farhann-saleem/AgentPack) |
 | **[Medigify](./Medigify)** | **CTO & Lead Developer.** Built a complete Medical MCQ Test Startup from scratch to production. | Full-Stack | [Live Site](https://medigify.com/) / [GitHub](https://github.com/medigify/medigify-code-01) |
 | **[Runway Copilot](./Runway_Copilot)** | **SOFTEC 2026 Hackathon.** Autonomous AI Inbox Manager for Student Opportunities powered by DeepSeek V3 & Qwen 2.5-72B. | FastAPI, Next.js, LLMs | [GitHub](https://github.com/farhann-saleem/runway-copilot) |
 
@@ -17,8 +29,8 @@ Welcome to my portfolio of open-source contributions! I am the **ML/AI Co-Lead a
 | :--- | :--- | :--- | :--- |
 | **CNCF Projects** | **7** | **7** | **2** |
 | **Red Hat Projects** | **7** | **2** | **4** |
-| **Community & Startup** | **5** | **1** | **0** |
-| **Total Contributions** | **19** | **10** | **6** |
+| **Community & Startup** | **5** | **2** | **1** |
+| **Total Contributions** | **19** | **11** | **7** |
 
 <br/>
 
@@ -62,6 +74,7 @@ Here is a summary of my key contributions across different repositories.
 | **[Kubeflow](./Kubeflow)** | [docs-agent](https://github.com/kubeflow/docs-agent) | [#37](https://github.com/kubeflow/docs-agent/pull/37) | Documentation agent updates | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Sktime](./Sktime)** | [sktime](https://github.com/sktime/sktime) | [#9437](https://github.com/sktime/sktime/pull/9437) | Docs & broken reference fixes | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Krkn](./Krkn)** | [krknctl](https://github.com/krkn-chaos/krknctl) | [#107](https://github.com/krkn-chaos/krknctl/pull/107) | Control plane updates | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Traceroot](./Traceroot)** | [traceroot](https://github.com/traceroot-ai/traceroot) | [#938](https://github.com/traceroot-ai/traceroot/pull/938) | Deduplicate spans with `FINAL` | Python, ClickHouse | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 
 ---
 
@@ -75,6 +88,7 @@ Here is a summary of my key contributions across different repositories.
 | | [#1372](https://github.com/hermetoproject/hermeto/issues/1372) | Bug Discovery | Detected flaws in `snap` based Go toolchain detection. Fixed cross-platform logic. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | **[Jaeger](./Jaeger)** | [#8465](https://github.com/jaegertracing/jaeger/issues/8465) | Bug Discovery | Identified case-sensitivity issues in `get_span_names` handler. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | **[Meshery](./Meshery)** | [#17741](https://github.com/meshery/meshery/issues/17741) | Deep Audit | Audited `data-fetch.ts` to debunk false reports and justified core design choices. | ![Triage](https://img.shields.io/badge/Action-Triage-blue?style=flat&logo=github&logoColor=white) |
+| **[Traceroot](./Traceroot)** | [#937](https://github.com/traceroot-ai/traceroot/issues/937) | Bug Discovery | Found detector evaluator reading duplicate spans before background merges. | ![Open](https://img.shields.io/badge/Action-Open-2cbe4e?style=flat&logo=github&logoColor=white) |
 
 ---
 
@@ -90,6 +104,7 @@ Here is a summary of my key contributions across different repositories.
 
 ### 🧠 Specializations
 *   **Machine Learning & Data Science:** Deep Learning, EDA, Time-Series Analysis (Sktime, PyCaret).
+*   **AI Agent Workflows:** Autonomous agents, repo-local AI skills, persistent memory architectures, LLM tooling (AgentPack, Runway Copilot).
 *   **MLOps:** Kubernetes Orchestration, Manifest Optimization, Model Deployment.
 *   **System Development:** CLI Tools, Structured Logging, Backend Handlers (Rust, Go).
 *   **Open Source Leadership:** Maintenance and community engagement.
