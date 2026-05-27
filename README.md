@@ -13,7 +13,56 @@
   </p>
 </div>
 
-## Featured Projects
+<h2 align="center">Open Source Impact</h2>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Ecosystem</th>
+        <th align="center">Merged PRs</th>
+        <th align="center">Open PRs</th>
+        <th align="center">Issues Found</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left"><b>CNCF Projects</b></td>
+        <td align="center">7</td>
+        <td align="center">7</td>
+        <td align="center">2</td>
+      </tr>
+      <tr>
+        <td align="left"><b>Red Hat Projects</b></td>
+        <td align="center">7</td>
+        <td align="center">2</td>
+        <td align="center">4</td>
+      </tr>
+      <tr>
+        <td align="left"><b>Y Combinator Startups</b></td>
+        <td align="center">1</td>
+        <td align="center">0</td>
+        <td align="center">1</td>
+      </tr>
+      <tr>
+        <td align="left"><b>Community & Startup</b></td>
+        <td align="center">5</td>
+        <td align="center">1</td>
+        <td align="center">0</td>
+      </tr>
+      <tr>
+        <td align="left"><i><b>Total Impact</b></i></td>
+        <td align="center"><b>20</b></td>
+        <td align="center"><b>10</b></td>
+        <td align="center"><b>7</b></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br/>
+
+## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
@@ -22,16 +71,6 @@
 | **[AgentPack](./AgentPack)** | Workflow installer for vibe coders, providing repo-local AI skills, persistent memory, and structured task continuity. | Node.js, CLI, AI Workflows | [GitHub](https://github.com/farhann-saleem/AgentPack) |
 | **[Medigify](./Medigify)** | **CTO & Lead Developer.** Built a complete Medical MCQ Test Startup from scratch to production. | Full-Stack | [Live Site](https://medigify.com/) / [GitHub](https://github.com/medigify/medigify-code-01) |
 | **[Runway Copilot](./Runway_Copilot)** | **SOFTEC 2026 Hackathon.** Autonomous AI Inbox Manager for Student Opportunities powered by DeepSeek V3 & Qwen 2.5-72B. | FastAPI, Next.js, LLMs | [GitHub](https://github.com/farhann-saleem/runway-copilot) |
-
-## 📊 Contribution Stats
-
-| Category | Merged PRs | Open PRs | Issues Found |
-| :--- | :--- | :--- | :--- |
-| **CNCF Projects** | **7** | **7** | **2** |
-| **Red Hat Projects** | **7** | **2** | **4** |
-| **Y Combinator Startups** | **1** | **0** | **1** |
-| **Community & Startup** | **5** | **1** | **0** |
-| **Total Contributions** | **20** | **10** | **7** |
 
 <br/>
 
