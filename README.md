@@ -29,8 +29,9 @@
 | :--- | :--- | :--- | :--- |
 | **CNCF Projects** | **7** | **7** | **2** |
 | **Red Hat Projects** | **7** | **2** | **4** |
-| **Community & Startup** | **5** | **2** | **1** |
-| **Total Contributions** | **19** | **11** | **7** |
+| **Y Combinator Startups** | **1** | **0** | **1** |
+| **Community & Startup** | **5** | **1** | **0** |
+| **Total Contributions** | **20** | **10** | **7** |
 
 <br/>
 
@@ -51,6 +52,7 @@ Here is a summary of my key contributions across different repositories.
 | | | [#1330](https://github.com/hermetoproject/hermeto/pull/1330) | Fixed incorrect CLI option name | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Jaeger](./Jaeger)** | [jaeger](https://github.com/jaegertracing/jaeger) | [#8466](https://github.com/jaegertracing/jaeger/pull/8466) | Normalize span_kind input in get_span_names | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#8472](https://github.com/jaegertracing/jaeger/pull/8472) | Align search_traces ADR with schema | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| **[Traceroot](./Traceroot)** | [traceroot](https://github.com/traceroot-ai/traceroot) | [#938](https://github.com/traceroot-ai/traceroot/pull/938) | Deduplicate spans with `FINAL` | Python, ClickHouse | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17708](https://github.com/meshery/meshery/pull/17708) | [Models] Defined CloudWatch & ECS relationships | Go, React, Docs | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
 | | | [#17274](https://github.com/meshery/meshery/pull/17274) | Approved design/implementation | Go, React | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
 | | | [#17603](https://github.com/meshery/meshery/pull/17603) | Documentation updates | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
@@ -74,7 +76,6 @@ Here is a summary of my key contributions across different repositories.
 | **[Kubeflow](./Kubeflow)** | [docs-agent](https://github.com/kubeflow/docs-agent) | [#37](https://github.com/kubeflow/docs-agent/pull/37) | Documentation agent updates | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Sktime](./Sktime)** | [sktime](https://github.com/sktime/sktime) | [#9437](https://github.com/sktime/sktime/pull/9437) | Docs & broken reference fixes | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Krkn](./Krkn)** | [krknctl](https://github.com/krkn-chaos/krknctl) | [#107](https://github.com/krkn-chaos/krknctl/pull/107) | Control plane updates | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Traceroot](./Traceroot)** | [traceroot](https://github.com/traceroot-ai/traceroot) | [#938](https://github.com/traceroot-ai/traceroot/pull/938) | Deduplicate spans with `FINAL` | Python, ClickHouse | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 
 ---
 
@@ -87,8 +88,8 @@ Here is a summary of my key contributions across different repositories.
 | | [#1376](https://github.com/hermetoproject/hermeto/issues/1376) | Bug Discovery | Identified raw traceback leaks in `cargo` backend. Enhanced security and UX. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | | [#1372](https://github.com/hermetoproject/hermeto/issues/1372) | Bug Discovery | Detected flaws in `snap` based Go toolchain detection. Fixed cross-platform logic. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | **[Jaeger](./Jaeger)** | [#8465](https://github.com/jaegertracing/jaeger/issues/8465) | Bug Discovery | Identified case-sensitivity issues in `get_span_names` handler. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
+| **[Traceroot](./Traceroot)** | [#937](https://github.com/traceroot-ai/traceroot/issues/937) | Bug Discovery | Found detector evaluator reading duplicate spans before background merges. | ![Resolved](https://img.shields.io/badge/Action-Resolved-8957e5?style=flat&logo=github&logoColor=white) |
 | **[Meshery](./Meshery)** | [#17741](https://github.com/meshery/meshery/issues/17741) | Deep Audit | Audited `data-fetch.ts` to debunk false reports and justified core design choices. | ![Triage](https://img.shields.io/badge/Action-Triage-blue?style=flat&logo=github&logoColor=white) |
-| **[Traceroot](./Traceroot)** | [#937](https://github.com/traceroot-ai/traceroot/issues/937) | Bug Discovery | Found detector evaluator reading duplicate spans before background merges. | ![Open](https://img.shields.io/badge/Action-Open-2cbe4e?style=flat&logo=github&logoColor=white) |
 
 ---
 
