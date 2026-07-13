@@ -4,14 +4,18 @@ Contribution to [Meshery](https://github.com/meshery/meshery).
 
 ## PR Details
 *   **PR:** [#17708](https://github.com/meshery/meshery/pull/17708)
-*   **Status:** Approved
+*   **Status:** Merged
 *   **Description:** [Models] Defined relationship between CloudWatch LogGroup and ECS TaskDefinition for container log routing.
+
+*   **PR:** [#17796](https://github.com/meshery/meshery/pull/17796)
+*   **Status:** Merged
+*   **Description:** [Models] Add ECS TaskDefinition to Cluster hierarchical relationship for aws-ecs-controller.
 
 *   **PR:** [#17274](https://github.com/meshery/meshery/pull/17274)
 *   **Status:** Approved
 
 *   **PR:** [#17626](https://github.com/meshery/meshery/pull/17626)
-*   **Status:** Open
+*   **Status:** Merged
 *   **Description:** [Models] Added edge/non-binding/reference relationship between ECR Repository and ECS TaskDefinition for aws-ecs-controller.
 
 *   **PR:** [#17606](https://github.com/meshery/meshery/pull/17606)

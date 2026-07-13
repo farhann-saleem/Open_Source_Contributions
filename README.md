@@ -28,8 +28,8 @@
     <tbody>
       <tr>
         <td align="left"><b>CNCF Projects</b></td>
-        <td align="center">7</td>
-        <td align="center">7</td>
+        <td align="center">9</td>
+        <td align="center">6</td>
         <td align="center">2</td>
       </tr>
       <tr>
@@ -52,8 +52,8 @@
       </tr>
       <tr>
         <td align="left"><i><b>Total Impact</b></i></td>
-        <td align="center"><b>20</b></td>
-        <td align="center"><b>10</b></td>
+        <td align="center"><b>22</b></td>
+        <td align="center"><b>9</b></td>
         <td align="center"><b>7</b></td>
       </tr>
     </tbody>
@@ -92,7 +92,9 @@ Here is a summary of my key contributions across different repositories.
 | **[Jaeger](./Jaeger)** | [jaeger](https://github.com/jaegertracing/jaeger) | [#8466](https://github.com/jaegertracing/jaeger/pull/8466) | Normalize span_kind input in get_span_names | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#8472](https://github.com/jaegertracing/jaeger/pull/8472) | Align search_traces ADR with schema | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Traceroot](./Traceroot)** | [traceroot](https://github.com/traceroot-ai/traceroot) | [#938](https://github.com/traceroot-ai/traceroot/pull/938) | Deduplicate spans with `FINAL` | Python, ClickHouse | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
-| **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17708](https://github.com/meshery/meshery/pull/17708) | [Models] Defined CloudWatch & ECS relationships | Go, React, Docs | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
+| **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17796](https://github.com/meshery/meshery/pull/17796) | [Models] Add ECS TaskDefinition to Cluster relationship | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| | | [#17708](https://github.com/meshery/meshery/pull/17708) | [Models] Defined CloudWatch & ECS relationships | Go, React, Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
+| | | [#17626](https://github.com/meshery/meshery/pull/17626) | [Models] ECR & ECS Relationships | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | | | [#17274](https://github.com/meshery/meshery/pull/17274) | Approved design/implementation | Go, React | ![Approved](https://img.shields.io/badge/PR-Approved-success?style=flat&logo=github&logoColor=white) |
 | | | [#17603](https://github.com/meshery/meshery/pull/17603) | Documentation updates | Docs | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
 | **[Vitess](./Vitess)** | [vitess](https://github.com/vitessio/vitess) | [#19387](https://github.com/vitessio/vitess/pull/19387) | Fix nil guard in `stopSourceStreams` | Go | ![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat&logo=git-merge&logoColor=white) |
@@ -108,8 +110,7 @@ Here is a summary of my key contributions across different repositories.
 | **[Hermeto](./Hermeto)** | [hermeto](https://github.com/hermetoproject/hermeto) | [#1346](https://github.com/hermetoproject/hermeto/pull/1346) | HTTP 429 Jitter Retry logic | Python, Tests | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Jaeger](./Jaeger)** | [jaeger](https://github.com/jaegertracing/jaeger) | [#8491](https://github.com/jaegertracing/jaeger/pull/8491) | Add trace_count field to search_traces output | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | | | [#8489](https://github.com/jaegertracing/jaeger/pull/8489) | Add truncation metadata to get_trace_topology | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17626](https://github.com/meshery/meshery/pull/17626) | [Models] ECR & ECS Relationships | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
-| | | [#17606](https://github.com/meshery/meshery/pull/17606) | Structured logging in handlers | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
+| **[Meshery](./Meshery)** | [meshery](https://github.com/meshery/meshery) | [#17606](https://github.com/meshery/meshery/pull/17606) | Structured logging in handlers | Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Drasi Platform](./Drasi_Platform)** | [drasi-platform](https://github.com/drasi-project/drasi-platform) | [#398](https://github.com/drasi-project/drasi-platform/pull/398) | Fix readiness reporting | Rust, Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | | | [#397](https://github.com/drasi-project/drasi-platform/pull/397) | Documentation & Typo fixes | Rust, Go | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
 | **[Kubeflow](./Kubeflow)** | [docs-agent](https://github.com/kubeflow/docs-agent) | [#37](https://github.com/kubeflow/docs-agent/pull/37) | Documentation agent updates | Python | ![Open](https://img.shields.io/badge/PR-Open-2cbe4e?style=flat&logo=github-actions&logoColor=white) |
